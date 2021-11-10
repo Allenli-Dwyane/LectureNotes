@@ -1,2 +1,2 @@
 # LectureNotes
-This is a repository for my lecture notes
+* Macroeconomics by Stephen D.Williamson
